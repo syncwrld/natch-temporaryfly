@@ -2,7 +2,7 @@ Configure quantos tipos de vôo quiser e faça seus jogadores alugarem utilizand
 
 ## Demonstrações
 
-[](https://s11.gifyu.com/images/SQul2.gif)
+<img src="https://s11.gifyu.com/images/SQul2.gif">
 
 ## Comandos
 
