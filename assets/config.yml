@@ -1,0 +1,116 @@
+# NatchTempFly by syncwrld #
+#  www.github.com/syncwrld #
+
+# Não altere o valor abaixo #
+config: '1.0'
+
+# Configuração dos comandos #
+comandos:
+  menu-tempfly:
+    descricao: 'Comando usado para abrir o menu de alugar fly.' # A descrição do comando
+    principal: 'tempfly' # O comando principal
+    atalhos:
+      - 'alugarfly' # Os atalhos que também chamam o comando
+
+# O tamanho do menu #
+tamanho-do-menu: 45
+# O título do menu #
+titulo-do-menu: 'Loja | Relíquias'
+
+# Mostrar status do vôo no menu? #
+mostrar-status: true
+slot-do-status: 4
+formatacao-status:
+  nome: '&eSeus status'
+  descricao:
+    - '&7Status: %status%'
+    - '&7Tempo restante: %tempo%'
+
+# Placeholders #
+placeholders:
+  ativado: '&aLigado'
+  desativado: '&cDesligado'
+  sem-voo: '&cExpirado'
+
+# Tipos de fly #
+tipos-de-fly:
+  fly-01:
+    tempo-de-voo: 1 # em minutos
+    preco: 25000
+    slot: 21
+    material: FEATHER
+    nome: '&7Pena Comum'
+    descricao:
+      - '&7Uma pena comum.'
+      - ''
+      - '&7Preço: &2$&a25K'
+      - '&7Duração: 1 minuto.'
+  fly-02:
+    tempo-de-voo: 10 # em minutos
+    preco: 50000
+    slot: 22
+    material: FEATHER
+    nome: '&ePena Rara'
+    descricao:
+      - '&7Uma pena até que rara.'
+      - ''
+      - '&7Preço: &2$&a50K'
+      - '&7Duração: 10 minutos.'
+  fly-03:
+    tempo-de-voo: 30 # em minutos
+    preco: 100000
+    slot: 23
+    material: FEATHER
+    nome: '&dPena Épica'
+    descricao:
+      - '&7Uma pena épica, poucos guerreiros'
+      - '&7já a usaram.'
+      - ''
+      - '&7Preço: &2$&a100K'
+      - '&7Duração: 30 minutos.'
+  fly-04:
+    tempo-de-voo: 60 # em minutos
+    preco: 150000
+    slot: 30
+    material: FEATHER
+    nome: '&5Pena Mística'
+    descricao:
+      - '&7Uma pena mística, feita à mão'
+      - '&7por artesãos do reino de Natch.'
+      - ''
+      - '&7Preço: &2$&a150K'
+      - '&7Duração: 1 hora.'
+  fly-05:
+    tempo-de-voo: 90 # em minutos
+    preco: 250000
+    slot: 31
+    material: FEATHER
+    nome: '&6Pena Lendária'
+    descricao:
+      - '&7Esculpida durante anos'
+      - '&7por &bDeuses do Olimpo, &7esta'
+      - '&7tem um toque especial.'
+      - ''
+      - '&7Preço: &2$&a250K'
+      - '&7Duração: 1 hora e 30 minutos.'
+
+# Opções extras #
+anunciar-tempo:
+  60s:
+    ativar: true
+    mensagem: '&cRestam apenas 60 segundos pro seu fly acabar.'
+    som: 'WOOD_CLICK'
+  5min:
+    ativar: true
+    mensagem: '&cRestam apenas 5 minutos pro seu fly acabar.'
+    som: 'WOOD_CLICK'
+  15min:
+    ativar: true
+    mensagem: '&cRestam apenas 15 minutos pro seu fly acabar.'
+    som: 'WOOD_CLICK'
+
+# Algumas mensagens #
+mensagens:
+  fly-acabou: '&cO seu tempo de vôo acabou.'
+  sem-dinheiro-para-comprar: '&cVocê não tem dinheiro para comprar esta pena.'
+  fly-temp-comprado: '&aVocê comprou %pena% &apor &2$&a%preco%.'
