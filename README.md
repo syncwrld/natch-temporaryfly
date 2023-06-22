@@ -1,6 +1,8 @@
 Configure quantos tipos de vôo quiser e faça seus jogadores alugarem utilizando um menu amigável.
 
+## Demonstrações
 
+[](https://s11.gifyu.com/images/SQul2.gif)
 
 ## Comandos
 
