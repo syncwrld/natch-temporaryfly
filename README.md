@@ -20,6 +20,9 @@
 
 - /criarfly [id] - abre um menu para você criar um tipo de vôo in-game
 
+## Configuração
+ - [Clique aqui](https://github.com/syncwrld/NatchTempFly/blob/main/assets/config.yml) para ver a configuração do plugin
+
 ## Como comprar
 - Entre em contato comigo no discord: syncwrld ou [clique aqui](https://discordapp.com/users/662402220784091146).
 
