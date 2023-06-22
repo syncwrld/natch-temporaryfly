@@ -11,6 +11,8 @@
  - Totalmente configurável
  - Retomada de tempo de vôo mesmo que o servidor reinicie sem o jogador usar tudo
  - Totalmente otimizado, performance máxima
+ - Anúncios próximos do tempo acabar
+ - Comandos personalizáveis
 
 ## Comandos
 
