@@ -27,4 +27,4 @@
 - Entre em contato comigo no discord: syncwrld ou [clique aqui](https://discordapp.com/users/662402220784091146). (R$50)
 
 ## Créditos
-- O plugin foi feito _totalmente por mim_ como encomenda pelo _Kuuna da Rede Natch (redenatch.com)_, ele autorizou a venda.
+- O plugin foi feito **totalmente por mim** como encomenda pelo _Kuuna_ da **Rede Natch (redenatch.com)**, ele autorizou a venda.
