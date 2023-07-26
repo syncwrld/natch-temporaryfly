@@ -24,7 +24,7 @@
  - [Clique aqui](https://github.com/syncwrld/NatchTempFly/blob/main/assets/config.yml) para ver a configuração do plugin
 
 ## Como comprar
-- Entre em contato comigo no discord: syncwrld ou [clique aqui](https://discordapp.com/users/662402220784091146). (R$30)
+ - Entre em contato comigo no discord: syncwrld ou [clique aqui](https://discordapp.com/users/662402220784091146). (R$15)
 
 ## Créditos
 - O plugin foi feito **totalmente por mim** como encomenda pelo _Kuuna_ da **Rede Natch (redenatch.com)**, ele autorizou a venda.
